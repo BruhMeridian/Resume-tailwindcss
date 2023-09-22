@@ -1,3 +1,3 @@
 # Resume.tailwindcss
 
-resume made in tailwind.css
+resume made in html and used tailwind instead of css
